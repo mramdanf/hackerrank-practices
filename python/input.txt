@@ -1,2 +1,6 @@
-7 50
-1 12 5 111 200 1000 10
+5
+amy 100
+david 100
+heraldo 50
+aakansha 75
+aleksa 150
